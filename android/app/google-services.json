@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199374179832",
+    "project_id": "saude-para-todos-adbcb",
+    "storage_bucket": "saude-para-todos-adbcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199374179832:android:29d3b93844a182c3cf1a0d",
+        "android_client_info": {
+          "package_name": "com.example.saude_para_todos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iUvX6iyqGhh6Bt3Obn1bufGiF7PwGFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
